@@ -1,0 +1,6 @@
+Image name,Desired response,Output label,Volume (cm^3),Mass (grams),Calories for food item,Calories per 100 grams
+../Dataset/images/Test_Images/15_13.jpg,15.0,15.0,17.78816378518026
+../Dataset/images/Test_Images/15_14.jpg,15.0,15.0,13.862101602736981
+../Dataset/images/Test_Images/15_15.jpg,15.0,15.0,32.07215885705944
+../Dataset/images/Test_Images/15_16.jpg,15.0,15.0,60.143135608524595
+../Dataset/images/Test_Images/15_17.jpg,15.0,15.0,48.03260780260122
